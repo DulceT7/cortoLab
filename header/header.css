@@ -1,0 +1,31 @@
+.header1 {
+    background-color: #f5f5f5;
+    width: 1440px;
+    height: 42px;
+
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.iconos span {
+    margin-left: 10px;
+    color: #666666;
+    align-items: center;
+    gap: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.iconos img {
+    width: 16px;
+    height: 16px;
+}
+
+.titulo1 {
+    gap: 6px;
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
