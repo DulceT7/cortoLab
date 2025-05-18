@@ -1,0 +1,46 @@
+.teTx{
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 42px;
+ 
+ 
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-size: 24px;
+    color: #666666;
+    margin-top: 135px;
+    gap: 20px;
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #008ECC;
+}
+.f{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.g{
+    color: #008ECC;
+}
+.of{
+    margin-top: -20px;
+}
+.of1{
+    width: 1490px;
+    position: relative;
+}
+.of2{
+top: 1540px;
+position: absolute;
+width: 270px;
+}
+.ofertas{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    margin-top: 50px;
+}
