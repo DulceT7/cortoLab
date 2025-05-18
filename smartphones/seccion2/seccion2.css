@@ -1,0 +1,46 @@
+.telp2{
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 42px;
+ 
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    font-size: 24px;
+    color: #666666;
+    margin-top: -100px;
+    gap: 20px;
+}
+.titu{
+    display: flex;
+    gap: 4px;
+}
+.tp2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tp3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #008ECC;
+}
+.iz1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.izz2{
+    color: #008ECC;
+}
+.im2{
+    margin-top: -20px;
+}
+.iM1{
+    left: 50px;
+    position: relative;
+    width: 1440px;
+}
+.iM3{
+    top: 1187px;
+    position: absolute;
+    left: 30px;
+    width: 280px;
+}
