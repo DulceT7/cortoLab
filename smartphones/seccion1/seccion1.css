@@ -1,0 +1,43 @@
+.tel1 {
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 42px;
+ 
+ 
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-size: 24px;
+    color: #666666;
+    margin-top: -100px;
+    gap: 20px;
+ }
+ .te1{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .sp{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #008ECC;
+ }
+ .iz{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .iz2{
+    color: #008ECC;
+ }
+ .im {
+    
+    margin-top: -20px;
+ }
+ .im2 {
+    position: relative;
+    left: 50px;
+    width: 1440px;
+  }
+   .im3 {
+    position: absolute;
+    top: 730px;
+    left: 30px;
+  }
+ 
