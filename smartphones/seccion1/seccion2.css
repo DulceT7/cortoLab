@@ -2,36 +2,31 @@
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    gap: 30px; /* espacio entre imágenes */
+    gap: 30px; 
     margin-top: 50px;
-  }
-  
-  .tel img {
+}
+.tel img {
     max-width: 100%;
     height: auto;
-  }
-  
-  /* Contenedor que posiciona las imágenes encima de Rectangle 11 */
-  .rect-contenedor {
+}
+
+.rect-contenedor {
     position: relative;
-    width: fit-content; /* se ajusta al contenido */
-  }
+    width: fit-content; 
+}
   
-  /* Imagen base */
   .base {
     display: block;
   }
-  
-  /* Imágenes que van encima */
   .encima1 {
     position: absolute;
-    top: 190px;   /* Ajusta según donde quieras que aparezca */
+    top: 190px; 
     right: 1px;
   }
   
   .encima2 {
     position: absolute;
-    top: -10px;   /* Ajusta según donde quieras que aparezca */
+    top: -10px;   
     left: 50px;
   }
   .encima3{
