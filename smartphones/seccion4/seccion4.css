@@ -1,0 +1,76 @@
+.comida{
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 42px;
+ 
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-size: 24px;
+    color: #666666;
+    margin-top: -20px;
+    gap: 20px;
+}
+.v{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.u{
+    color: #008ECC;
+}
+.r{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.d{
+    color: #008ECC;
+}
+.iM5{
+    position: relative;
+    top: -20px;
+    width: 1470px;
+}
+.iM6{
+    top: 1980px;
+    position: absolute;
+    left: 25px;
+    width: 170px;
+    height: 2px;
+}
+.fon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 55px; 
+    margin-top: -15px;
+}
+.c1{
+    margin-top: 60px;
+}
+.fon2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 88px; 
+    margin-top: -240px;
+}
+.tfrut {
+    display: flex;
+    gap: 190px;
+    justify-content: center;
+    margin-top: 30px;
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tfrut p {
+    margin: 0;              
+}
+.tfrut2{
+    display: flex;
+    gap: 115px;
+    justify-content: right;
+    margin-top: -10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+  
+  
