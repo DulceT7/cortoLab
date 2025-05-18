@@ -1,0 +1,45 @@
+.footer {
+    text-align: center;
+    margin-top: 50px; 
+}
+.fot {
+    text-align: right;
+    margin-top: -298px;
+    margin-right: 11px;
+}
+.fot2{
+    text-align: right;
+    margin-top: -320px;
+    margin-right: 380px;
+}
+.fot3{
+    text-align: right;
+    margin-top: -283px;
+    margin-right: 690px;
+}
+.fot4{
+    text-align: left;
+    margin-top: -365px;
+    margin-left: 160px;
+}
+.fot5{
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 160px;
+}
+
+.fot6, .fot7, .fot8, .fot9{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.tot10 img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.fot11{
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}  
